@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\School\repos\BMICalc\bin\Debug\netcoreapp3.1\BMICalc.exe
+C:\Users\user\Desktop\School\repos\BMICalc\bin\Debug\netcoreapp3.1\BMICalc.deps.json
+C:\Users\user\Desktop\School\repos\BMICalc\bin\Debug\netcoreapp3.1\BMICalc.runtimeconfig.json
+C:\Users\user\Desktop\School\repos\BMICalc\bin\Debug\netcoreapp3.1\BMICalc.runtimeconfig.dev.json
+C:\Users\user\Desktop\School\repos\BMICalc\bin\Debug\netcoreapp3.1\BMICalc.dll
+C:\Users\user\Desktop\School\repos\BMICalc\bin\Debug\netcoreapp3.1\BMICalc.pdb
+C:\Users\user\Desktop\School\repos\BMICalc\obj\Debug\netcoreapp3.1\BMICalc.csprojAssemblyReference.cache
+C:\Users\user\Desktop\School\repos\BMICalc\obj\Debug\netcoreapp3.1\BMICalc.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\School\repos\BMICalc\obj\Debug\netcoreapp3.1\BMICalc.AssemblyInfo.cs
+C:\Users\user\Desktop\School\repos\BMICalc\obj\Debug\netcoreapp3.1\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\School\repos\BMICalc\obj\Debug\netcoreapp3.1\BMICalc.dll
+C:\Users\user\Desktop\School\repos\BMICalc\obj\Debug\netcoreapp3.1\BMICalc.pdb
+C:\Users\user\Desktop\School\repos\BMICalc\obj\Debug\netcoreapp3.1\BMICalc.genruntimeconfig.cache

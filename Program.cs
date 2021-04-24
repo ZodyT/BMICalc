@@ -14,21 +14,21 @@ namespace BMICalc
 
             int bmi = (weight / height * height);
 
-            if (bmi <= 18.5)
+            if (bmi < 18.5)
             {
                 Console.WriteLine("Underweight");
             }
-            else if (bmi >= 18.5 && bmi <= 25)
+            else if (bmi >= 18.5 && bmi < 25)
             {
                 Console.WriteLine("Normal");
             }
-            else if (bmi >= 25 && bmi <= 30)
+            else if (bmi >= 25 && bmi < 30)
             {
                 Console.WriteLine("Overweight");
             }
             else if (bmi >= 30)
             {
-                Console.WriteLine("Obesity");
+                Console.WriteLine("Obese");
             }
         }
     }
